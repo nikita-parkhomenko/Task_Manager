@@ -1,0 +1,8 @@
+.Header{
+    margin-top: 32px;
+}
+
+.header-container {
+    display: flex;
+    justify-content: space-evenly
+}

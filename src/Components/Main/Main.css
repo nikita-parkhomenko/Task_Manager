@@ -1,0 +1,10 @@
+.Main {
+    width: 450px;
+    min-height: 200px;
+    margin: 16px auto;
+    border: 2px solid #708090;
+    border-radius: 10px;
+}
+.main-title {
+    color: #2F4F4F;
+}
